@@ -1,0 +1,10 @@
+package com.sinosoft.fininterface;
+
+/**
+ * @author yangguo
+ **/
+public class gitdemo1 {
+    public static void main(String[] args) {
+        System.out.println("Hello git");
+    }
+}
